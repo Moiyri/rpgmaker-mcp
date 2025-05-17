@@ -1,0 +1,1 @@
+import './src/rpgmaker-mcp/server.js';
